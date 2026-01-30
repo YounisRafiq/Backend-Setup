@@ -1,0 +1,18 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is proffesional backend setup by Hitesh Sir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hitesh",
+    "Sir",
+    "Full",
+    "Stack",
+    "Development"
+  ],
+  "author": "Younis_Ali",
+  "license": "ISC"
+}
